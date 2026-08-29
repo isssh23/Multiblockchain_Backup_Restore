@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+This Project was published as a paper in NCIM 2025: "Multi-Blockchain Backup & Restore System with Zero-Knowledge Proofs (ZKPs)"
